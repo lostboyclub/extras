@@ -1,0 +1,31 @@
+{
+  "name": "LOST JACI",
+  "symbol": "LI",
+  "description": "\"LOST INFLUENCERS\" is a special 1/1 honorary collection from Lost Boy Club made for people/companies with influence in the NFT ecosystem.",
+  "seller_fee_basis_points": 1000,
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Lost Influencer",
+      "value": "@Jaci_DAO"
+    }
+  ],
+  "collection": {
+    "name": "LOST JACI"
+  },
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/lostboyclub/extras/main/JACIdao.png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Fz1NzfYcHEGBJCRhkTDJRjxMgbMrZsRSTas1iVnFnK7w",
+        "share": 100
+      }
+    ]
+  },
+  "image": "https://raw.githubusercontent.com/lostboyclub/extras/main/JACIdao.png"
+}
